@@ -3,6 +3,14 @@ import { Layout } from './components/Layout';
 import { LoadingSpinner } from './components/ui/LoadingSpinner';
 import { ThemeProvider } from './context/ThemeContext';
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+>>>>>>> c8f19eb38597ea21acda8a916620381e1b0201c6
 // Lazy load components with proper handling of named exports
 const TextFormatter = React.lazy(() => 
   import('./components/tools/TextFormatter').then(module => ({ default: module.TextFormatter }))

@@ -1,9 +1,16 @@
 {
+<<<<<<< HEAD
   "homepage": "https://vinayoo4.github.io/web_utility",
+=======
+>>>>>>> c8f19eb38597ea21acda8a916620381e1b0201c6
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+<<<<<<< HEAD
+=======
+  "homepage": "https://vinayoo4.github.io/web_utility",
+>>>>>>> c8f19eb38597ea21acda8a916620381e1b0201c6
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,6 +19,10 @@
     "test": "vitest",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+<<<<<<< HEAD
+=======
+
+>>>>>>> c8f19eb38597ea21acda8a916620381e1b0201c6
   },
   "dependencies": {
     "@dnd-kit/core": "^6.1.0",
